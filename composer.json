@@ -1,0 +1,16 @@
+{
+    "name": "marcosoyarzo/myapp",
+    "autoload": {
+        "psr-4": {
+            "Marcosoyarzo\\Myapp\\": "src/",
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Marcos Alberto Oyarzo Alvarez",
+            "email": "oyarzo.marcos97@outlook.com"
+        }
+    ],
+    "require": {}
+}
